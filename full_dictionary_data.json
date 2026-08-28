@@ -13,22 +13,18 @@
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "খাওয়া / খাদ্য গ্রহণ করা",
+      "bangla": "খাওয়া",
       "senses": [
         {
           "partsOfSpeech": [
-            "Ichidan verb",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to eat",
-            "to consume"
+            "to eat"
           ],
           "glossesBn": [
-            "খাওয়া",
-            "ভোজন করা"
-          ],
-          "info": "Primary verb for eating food."
+            "খাওয়া"
+          ]
         }
       ]
     },
@@ -49,264 +45,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (mu)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to drink",
-            "to gulp",
-            "to swallow"
+            "to drink"
           ],
           "glossesBn": [
-            "পান করা",
-            "গিলে ফেলা"
+            "পান করা"
           ]
         }
       ]
     },
     {
       "id": "jm_1003",
-      "kanji": "本",
-      "reading": "ほん",
-      "furigana": "本[ほん]",
-      "romaji": "hon",
-      "isCommon": true,
-      "priority": [
-        "ichi1",
-        "news1",
-        "N5"
-      ],
-      "jlptLevel": "N5",
-      "bangla": "বই / গ্রন্থ",
-      "senses": [
-        {
-          "partsOfSpeech": [
-            "Noun"
-          ],
-          "meanings": [
-            "book",
-            "volume",
-            "script"
-          ],
-          "glossesBn": [
-            "বই",
-            "গ্রন্থ"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jm_1004",
-      "kanji": "水",
-      "reading": "みず",
-      "furigana": "水[みず]",
-      "romaji": "mizu",
-      "isCommon": true,
-      "priority": [
-        "ichi1",
-        "news1",
-        "N5"
-      ],
-      "jlptLevel": "N5",
-      "bangla": "পানি / জল",
-      "senses": [
-        {
-          "partsOfSpeech": [
-            "Noun"
-          ],
-          "meanings": [
-            "water (cold/fresh)"
-          ],
-          "glossesBn": [
-            "পানি",
-            "জল"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jm_1005",
-      "kanji": "学校",
-      "reading": "がっこう",
-      "furigana": "学[がっ]校[こう]",
-      "romaji": "gakkou",
-      "isCommon": true,
-      "priority": [
-        "ichi1",
-        "news1",
-        "N5"
-      ],
-      "jlptLevel": "N5",
-      "bangla": "বিদ্যালয় / স্কুল",
-      "senses": [
-        {
-          "partsOfSpeech": [
-            "Noun"
-          ],
-          "meanings": [
-            "school"
-          ],
-          "glossesBn": [
-            "বিদ্যালয়",
-            "স্কুল"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jm_1006",
-      "kanji": "私",
-      "reading": "わたし",
-      "furigana": "私[わたし]",
-      "romaji": "watashi",
-      "isCommon": true,
-      "priority": [
-        "ichi1",
-        "news1",
-        "N5"
-      ],
-      "jlptLevel": "N5",
-      "bangla": "আমি",
-      "senses": [
-        {
-          "partsOfSpeech": [
-            "Pronoun"
-          ],
-          "meanings": [
-            "I",
-            "me",
-            "myself"
-          ],
-          "glossesBn": [
-            "আমি",
-            "আমাকে"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jm_1007",
-      "kanji": "学生",
-      "reading": "がくせい",
-      "furigana": "学[がく]生[せい]",
-      "romaji": "gakusei",
-      "isCommon": true,
-      "priority": [
-        "ichi1",
-        "news1",
-        "N5"
-      ],
-      "jlptLevel": "N5",
-      "bangla": "ছাত্র / ছাত্রী",
-      "senses": [
-        {
-          "partsOfSpeech": [
-            "Noun"
-          ],
-          "meanings": [
-            "student"
-          ],
-          "glossesBn": [
-            "ছাত্র",
-            "ছাত্রী",
-            "শিক্ষার্থী"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jm_1008",
-      "kanji": "先生",
-      "reading": "せんせい",
-      "furigana": "先[せん]生[せい]",
-      "romaji": "sensei",
-      "isCommon": true,
-      "priority": [
-        "ichi1",
-        "news1",
-        "N5"
-      ],
-      "jlptLevel": "N5",
-      "bangla": "শিক্ষক / মহাশয়",
-      "senses": [
-        {
-          "partsOfSpeech": [
-            "Noun"
-          ],
-          "meanings": [
-            "teacher",
-            "instructor",
-            "master",
-            "doctor"
-          ],
-          "glossesBn": [
-            "শিক্ষক",
-            "ওস্তাদ",
-            "ডাক্তার"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jm_1009",
-      "kanji": "日本語",
-      "reading": "にほんご",
-      "furigana": "日[に]本[ほん]語[ご]",
-      "romaji": "nihongo",
-      "isCommon": true,
-      "priority": [
-        "ichi1",
-        "news1",
-        "N5"
-      ],
-      "jlptLevel": "N5",
-      "bangla": "জাপানি ভাষা",
-      "senses": [
-        {
-          "partsOfSpeech": [
-            "Noun"
-          ],
-          "meanings": [
-            "Japanese language"
-          ],
-          "glossesBn": [
-            "জাপানি ভাষা"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jm_1010",
-      "kanji": "友達",
-      "reading": "ともだち",
-      "furigana": "友[とも]達[だち]",
-      "romaji": "tomodachi",
-      "isCommon": true,
-      "priority": [
-        "ichi1",
-        "news1",
-        "N5"
-      ],
-      "jlptLevel": "N5",
-      "bangla": "বন্ধু / বান্ধবী",
-      "senses": [
-        {
-          "partsOfSpeech": [
-            "Noun"
-          ],
-          "meanings": [
-            "friend",
-            "companion"
-          ],
-          "glossesBn": [
-            "বন্ধু",
-            "সঙ্গী"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jm_1011",
       "kanji": "行く",
       "reading": "いく",
       "furigana": "行[い]く",
@@ -322,22 +73,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (ku)",
-            "Intransitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to go",
-            "to move towards"
+            "to go"
           ],
           "glossesBn": [
-            "যাওয়া",
-            "প্রস্থান করা"
+            "যাওয়া"
           ]
         }
       ]
     },
     {
-      "id": "jm_1012",
+      "id": "jm_1004",
       "kanji": "来る",
       "reading": "くる",
       "furigana": "来[く]る",
@@ -353,22 +101,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Kuru verb",
-            "Intransitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to come",
-            "to arrive"
+            "to come"
           ],
           "glossesBn": [
-            "আসা",
-            "উপস্থিত হওয়া"
+            "আসা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1013",
+      "id": "jm_1005",
       "kanji": "見る",
       "reading": "みる",
       "furigana": "見[み]る",
@@ -384,24 +129,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Ichidan verb",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to see",
-            "to look at",
-            "to watch"
+            "to see / watch"
           ],
           "glossesBn": [
-            "দেখা",
-            "তাকানো",
-            "লক্ষ্য করা"
+            "দেখা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1014",
+      "id": "jm_1006",
       "kanji": "聞く",
       "reading": "きく",
       "furigana": "聞[き]く",
@@ -417,34 +157,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (ku)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to hear",
-            "to listen to"
+            "to hear / ask"
           ],
           "glossesBn": [
-            "শোনা",
-            "মনোযোগ দিয়ে শোনা"
-          ]
-        },
-        {
-          "partsOfSpeech": [
-            "Godan verb (ku)"
-          ],
-          "meanings": [
-            "to ask",
-            "to inquire"
-          ],
-          "glossesBn": [
-            "জিজ্ঞাসা করা"
+            "শোনা / জিজ্ঞাসা করা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1015",
+      "id": "jm_1007",
       "kanji": "話す",
       "reading": "はなす",
       "furigana": "話[はな]す",
@@ -460,23 +185,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (su)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to speak",
-            "to talk",
-            "to converse"
+            "to speak / talk"
           ],
           "glossesBn": [
-            "কথা বলা",
-            "আলাপ করা"
+            "কথা বলা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1016",
+      "id": "jm_1008",
       "kanji": "買う",
       "reading": "かう",
       "furigana": "買[か]う",
@@ -484,29 +205,27 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "কেনা / ক্রয় করা",
+      "bangla": "কেনা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (u)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to buy",
-            "to purchase"
+            "to buy"
           ],
           "glossesBn": [
-            "কেনা",
-            "ক্রয় করা"
+            "কেনা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1017",
+      "id": "jm_1009",
       "kanji": "書く",
       "reading": "かく",
       "furigana": "書[か]く",
@@ -514,6 +233,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
@@ -521,23 +241,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (ku)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to write",
-            "to compose",
-            "to draw"
+            "to write"
           ],
           "glossesBn": [
-            "লেখা",
-            "অঙ্কন করা"
+            "লেখা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1018",
+      "id": "jm_1010",
       "kanji": "読む",
       "reading": "よむ",
       "furigana": "読[よ]む",
@@ -545,6 +261,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
@@ -552,50 +269,187 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (mu)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
             "to read"
           ],
           "glossesBn": [
-            "পড়া",
-            "পাঠ করা"
+            "পড়া"
           ]
         }
       ]
     },
     {
-      "id": "jm_1019",
-      "kanji": "勉強する",
-      "reading": "べんきょうする",
-      "furigana": "勉[べん]強[きょう]する",
-      "romaji": "benkyou suru",
+      "id": "jm_1011",
+      "kanji": "起きる",
+      "reading": "おきる",
+      "furigana": "起[お]きる",
+      "romaji": "okiru",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "পড়াশোনা করা",
+      "bangla": "জেগে ওঠা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to study"
+            "to wake up"
           ],
           "glossesBn": [
-            "অধ্যয়ন করা",
-            "পড়াশোনা করা"
+            "জেগে ওঠা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1020",
+      "id": "jm_1012",
+      "kanji": "寝る",
+      "reading": "ねる",
+      "furigana": "寝[ね]る",
+      "romaji": "neru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ঘুমানো",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to sleep"
+          ],
+          "glossesBn": [
+            "ঘুমানো"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1013",
+      "kanji": "帰る",
+      "reading": "かえる",
+      "furigana": "帰[かえ]る",
+      "romaji": "kaeru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ফিরে যাওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to return home"
+          ],
+          "glossesBn": [
+            "ফিরে যাওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1014",
+      "kanji": "会う",
+      "reading": "あう",
+      "furigana": "会[あ]う",
+      "romaji": "au",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "দেখা করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to meet"
+          ],
+          "glossesBn": [
+            "দেখা করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1015",
+      "kanji": "遊ぶ",
+      "reading": "あそぶ",
+      "furigana": "遊[あそ]ぶ",
+      "romaji": "asobu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "খেলা করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to play / enjoy"
+          ],
+          "glossesBn": [
+            "খেলা করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1016",
+      "kanji": "洗う",
+      "reading": "あらう",
+      "furigana": "洗[あら]う",
+      "romaji": "arau",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ধোয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to wash"
+          ],
+          "glossesBn": [
+            "ধোয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1017",
       "kanji": "歩く",
       "reading": "あるく",
       "furigana": "歩[ある]く",
@@ -603,6 +457,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
@@ -610,50 +465,299 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (ku)",
-            "Intransitive verb"
+            "Verb"
           ],
           "meanings": [
             "to walk"
           ],
           "glossesBn": [
-            "হাঁটা",
-            "পদব্রজে চলা"
+            "হাঁটা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1018",
+      "kanji": "言う",
+      "reading": "いう",
+      "furigana": "言[い]う",
+      "romaji": "iu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "বলা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to say"
+          ],
+          "glossesBn": [
+            "বলা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1019",
+      "kanji": "急ぐ",
+      "reading": "いそぐ",
+      "furigana": "急[いそ]ぐ",
+      "romaji": "isogu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "তাড়াতাড়ি করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to hurry"
+          ],
+          "glossesBn": [
+            "তাড়াতাড়ি করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1020",
+      "kanji": "要る",
+      "reading": "いる",
+      "furigana": "要[い]る",
+      "romaji": "iru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "প্রয়োজন হওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to need"
+          ],
+          "glossesBn": [
+            "প্রয়োজন হওয়া"
           ]
         }
       ]
     },
     {
       "id": "jm_1021",
-      "kanji": "走る",
-      "reading": "はしる",
-      "furigana": "走[はし]る",
-      "romaji": "hashiru",
+      "kanji": "動く",
+      "reading": "うごく",
+      "furigana": "動[うご]く",
+      "romaji": "ugoku",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "দৌড়ানো",
+      "bangla": "নড়াচড়া করা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (ru)",
-            "Intransitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to run"
+            "to move"
           ],
           "glossesBn": [
-            "দৌড়ানো",
-            "ধাবিত হওয়া"
+            "নড়াচড়া করা"
           ]
         }
       ]
     },
     {
       "id": "jm_1022",
+      "kanji": "歌う",
+      "reading": "うたう",
+      "furigana": "歌[うた]う",
+      "romaji": "utau",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "গান গাওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to sing"
+          ],
+          "glossesBn": [
+            "গান গাওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1023",
+      "kanji": "売る",
+      "reading": "うる",
+      "furigana": "売[う]る",
+      "romaji": "uru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "বিক্রি করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to sell"
+          ],
+          "glossesBn": [
+            "বিক্রি করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1024",
+      "kanji": "置く",
+      "reading": "おく",
+      "furigana": "置[お]く",
+      "romaji": "oku",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "রাখা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to put / place"
+          ],
+          "glossesBn": [
+            "রাখা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1025",
+      "kanji": "押す",
+      "reading": "おす",
+      "furigana": "押[お]す",
+      "romaji": "osu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ধাক্কা দেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to push"
+          ],
+          "glossesBn": [
+            "ধাক্কা দেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1026",
+      "kanji": "落とす",
+      "reading": "おとす",
+      "furigana": "落[お]とす",
+      "romaji": "otosu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ফেলে দেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to drop"
+          ],
+          "glossesBn": [
+            "ফেলে দেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1027",
+      "kanji": "思い出す",
+      "reading": "おもいだす",
+      "furigana": "思[おも]い 出[だ]す",
+      "romaji": "omoidasu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "মনে করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to recall / remember"
+          ],
+          "glossesBn": [
+            "মনে করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1028",
       "kanji": "泳ぐ",
       "reading": "およぐ",
       "furigana": "泳[およ]ぐ",
@@ -661,6 +765,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
@@ -668,8 +773,7 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (gu)",
-            "Intransitive verb"
+            "Verb"
           ],
           "meanings": [
             "to swim"
@@ -681,97 +785,483 @@
       ]
     },
     {
-      "id": "jm_1023",
-      "kanji": "待つ",
-      "reading": "まつ",
-      "furigana": "待[ま]つ",
-      "romaji": "matsu",
+      "id": "jm_1029",
+      "kanji": "降りる",
+      "reading": "おりる",
+      "furigana": "降[お]りる",
+      "romaji": "oriru",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "অপেক্ষা করা",
+      "bangla": "নেমে যাওয়া",
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (tsu)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to wait"
+            "to get off"
           ],
           "glossesBn": [
-            "অপেক্ষা করা",
-            "প্রতীক্ষা করা"
+            "নেমে যাওয়া"
           ]
         }
       ]
     },
     {
-      "id": "jm_1024",
-      "kanji": "呼ぶ",
-      "reading": "よび",
-      "furigana": "呼[よ]ぶ",
-      "romaji": "yobu",
+      "id": "jm_1030",
+      "kanji": "終わる",
+      "reading": "おわる",
+      "furigana": "終[お]わる",
+      "romaji": "owaru",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "ডাকা",
+      "bangla": "শেষ করা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (bu)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to call out to",
-            "to invite"
+            "to finish"
           ],
           "glossesBn": [
-            "ডাকা",
-            "আহ্বান করা"
+            "শেষ করা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1025",
-      "kanji": "作る",
-      "reading": "つくる",
-      "furigana": "作[つく]る",
-      "romaji": "tsukuru",
+      "id": "jm_1031",
+      "kanji": "勝つ",
+      "reading": "かつ",
+      "furigana": "勝[かつ]",
+      "romaji": "katsu",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "তৈরি করা",
+      "bangla": "জিতা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (ru)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to make",
-            "to produce",
-            "to create"
+            "to win"
           ],
           "glossesBn": [
-            "তৈরি করা",
-            "প্রস্তুত করা"
+            "জিতা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1026",
+      "id": "jm_1032",
+      "kanji": "借りる",
+      "reading": "かりる",
+      "furigana": "借[か]りる",
+      "romaji": "kariru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ধার করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to borrow"
+          ],
+          "glossesBn": [
+            "ধার করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1033",
+      "kanji": "消す",
+      "reading": "けす",
+      "furigana": "消[け]す",
+      "romaji": "kesu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "মুছে ফেলা / নেভানো",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to erase / turn off"
+          ],
+          "glossesBn": [
+            "মুছে ফেলা / নেভানো"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1034",
+      "kanji": "答える",
+      "reading": "こたえる",
+      "furigana": "答[こた]える",
+      "romaji": "kotaeru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "উত্তর দেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to answer"
+          ],
+          "glossesBn": [
+            "উত্তর দেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1035",
+      "kanji": "困る",
+      "reading": "こまる",
+      "furigana": "困[こ]まる",
+      "romaji": "komaru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "সমস্যায় পড়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to be in trouble"
+          ],
+          "glossesBn": [
+            "সমস্যায় পড়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1036",
+      "kanji": "咲く",
+      "reading": "さく",
+      "furigana": "咲[さ]く",
+      "romaji": "saku",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ফোটা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to bloom"
+          ],
+          "glossesBn": [
+            "ফোটা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1037",
+      "kanji": "死ぬ",
+      "reading": "しぬ",
+      "furigana": "死[し]ぬ",
+      "romaji": "shinu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "মারা যাওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to die"
+          ],
+          "glossesBn": [
+            "মারা যাওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1038",
+      "kanji": "閉まる",
+      "reading": "しまる",
+      "furigana": "閉[し]まる",
+      "romaji": "shimaru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "বন্ধ হওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to close"
+          ],
+          "glossesBn": [
+            "বন্ধ হওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1039",
+      "kanji": "知る",
+      "reading": "しる",
+      "furigana": "知[し]る",
+      "romaji": "shiru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "জানা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to know"
+          ],
+          "glossesBn": [
+            "জানা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1040",
+      "kanji": "吸う",
+      "reading": "すう",
+      "furigana": "吸[す]う",
+      "romaji": "suu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "পান করা / নেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to smoke / inhale"
+          ],
+          "glossesBn": [
+            "পান করা / নেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1041",
+      "kanji": "住む",
+      "reading": "すむ",
+      "furigana": "住[す]む",
+      "romaji": "sumu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "বসবাস করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to reside / live"
+          ],
+          "glossesBn": [
+            "বসবাস করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1042",
+      "kanji": "座る",
+      "reading": "すわる",
+      "furigana": "座[す]わる",
+      "romaji": "suwaru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "বসা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to sit"
+          ],
+          "glossesBn": [
+            "বসা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1043",
+      "kanji": "立つ",
+      "reading": "たつ",
+      "furigana": "立[た]つ",
+      "romaji": "tatsu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "দাঁড়ানো",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to stand"
+          ],
+          "glossesBn": [
+            "দাঁড়ানো"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1044",
+      "kanji": "出す",
+      "reading": "だす",
+      "furigana": "出[だ]す",
+      "romaji": "dasu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "বের করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to take out"
+          ],
+          "glossesBn": [
+            "বের করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1045",
+      "kanji": "頼む",
+      "reading": "たのむ",
+      "furigana": "頼[た]のむ",
+      "romaji": "tanomu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "অনুরোধ করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to request"
+          ],
+          "glossesBn": [
+            "অনুরোধ করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1046",
       "kanji": "使う",
       "reading": "つかう",
       "furigana": "使[つか]う",
@@ -779,6 +1269,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
@@ -786,12 +1277,10 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (u)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to use",
-            "to employ"
+            "to use"
           ],
           "glossesBn": [
             "ব্যবহার করা"
@@ -800,126 +1289,763 @@
       ]
     },
     {
-      "id": "jm_1027",
-      "kanji": "洗う",
-      "reading": "あらう",
-      "furigana": "洗[あら]う",
-      "romaji": "arau",
+      "id": "jm_1047",
+      "kanji": "疲れる",
+      "reading": "つかれる",
+      "furigana": "疲[つか]れる",
+      "romaji": "tsukareru",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "ধোয়া",
+      "bangla": "ক্লান্ত হওয়া",
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (u)",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to wash"
+            "to get tired"
           ],
           "glossesBn": [
-            "ধোয়া",
-            "পরিষ্কার করা"
+            "ক্লান্ত হওয়া"
           ]
         }
       ]
     },
     {
-      "id": "jm_1028",
-      "kanji": "寝る",
-      "reading": "ねる",
-      "furigana": "寝[ね]る",
-      "romaji": "neru",
+      "id": "jm_1048",
+      "kanji": "着く",
+      "reading": "つく",
+      "furigana": "着[つ]く",
+      "romaji": "tsuku",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "ঘুমানো",
+      "bangla": "পৌঁছানো",
       "senses": [
         {
           "partsOfSpeech": [
-            "Ichidan verb",
-            "Intransitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to sleep",
-            "to lie down"
+            "to arrive"
           ],
           "glossesBn": [
-            "ঘুমানো",
-            "শয়ন করা"
+            "পৌঁছানো"
           ]
         }
       ]
     },
     {
-      "id": "jm_1029",
-      "kanji": "起きる",
-      "reading": "おきる",
-      "furigana": "起[お]きる",
-      "romaji": "okiru",
+      "id": "jm_1049",
+      "kanji": "作る",
+      "reading": "つくる",
+      "furigana": "作[つく]る",
+      "romaji": "tsukuru",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "জেগে ওঠা",
+      "bangla": "তৈরি করা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Ichidan verb",
-            "Intransitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to wake up",
-            "to get up"
+            "to make"
           ],
           "glossesBn": [
-            "জেগে ওঠা",
-            "ঘুম থেকে ওঠা"
+            "তৈরি করা"
           ]
         }
       ]
     },
     {
-      "id": "jm_1030",
-      "kanji": "帰る",
-      "reading": "かえる",
-      "furigana": "帰[かえ]る",
-      "romaji": "kaeru",
+      "id": "jm_1050",
+      "kanji": "点ける",
+      "reading": "つける",
+      "furigana": "点[つ]ける",
+      "romaji": "tsukeru",
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N5"
       ],
       "jlptLevel": "N5",
-      "bangla": "ফিরে যাওয়া",
+      "bangla": "চালানো / জ্বালানো",
       "senses": [
         {
           "partsOfSpeech": [
-            "Godan verb (ru)",
-            "Intransitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to return",
-            "to go home"
+            "to turn on"
           ],
           "glossesBn": [
-            "ফিরে যাওয়া",
-            "বাড়িতে ফেরা"
+            "চালানো / জ্বালানো"
           ]
         }
       ]
     },
     {
-      "id": "jm_2001",
+      "id": "jm_1051",
+      "kanji": "手伝う",
+      "reading": "てつだう",
+      "furigana": "手[て]伝[つだ]う",
+      "romaji": "tetsudau",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "সাহায্য করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to help"
+          ],
+          "glossesBn": [
+            "সাহায্য করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1052",
+      "kanji": "止まる",
+      "reading": "とまる",
+      "furigana": "止[と]まる",
+      "romaji": "tomaru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "থামা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to stop"
+          ],
+          "glossesBn": [
+            "থামা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1053",
+      "kanji": "取る",
+      "reading": "とる",
+      "furigana": "取[と]る",
+      "romaji": "toru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "নেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to take / pass"
+          ],
+          "glossesBn": [
+            "নেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1054",
+      "kanji": "撮る",
+      "reading": "とる",
+      "furigana": "撮[と]る",
+      "romaji": "toru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ছবি তোলা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to take (photo)"
+          ],
+          "glossesBn": [
+            "ছবি তোলা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1055",
+      "kanji": "脱ぐ",
+      "reading": "ぬぐ",
+      "furigana": "脱[ぬ]ぐ",
+      "romaji": "nugu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "খোলা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to take off (clothes)"
+          ],
+          "glossesBn": [
+            "খোলা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1056",
+      "kanji": "登る",
+      "reading": "のぼる",
+      "furigana": "登[のぼ]る",
+      "romaji": "noboru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ওঠা / আরোহণ করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to climb"
+          ],
+          "glossesBn": [
+            "ওঠা / আরোহণ করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1057",
+      "kanji": "乗る",
+      "reading": "のる",
+      "furigana": "乗[の]る",
+      "romaji": "noru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "চড়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to ride / board"
+          ],
+          "glossesBn": [
+            "চড়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1058",
+      "kanji": "入る",
+      "reading": "はいる",
+      "furigana": "入[はい]る",
+      "romaji": "hairu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "প্রবেশ করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to enter"
+          ],
+          "glossesBn": [
+            "প্রবেশ করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1059",
+      "kanji": "履く",
+      "reading": "はく",
+      "furigana": "履[は]く",
+      "romaji": "haku",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "পরা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to wear (shoes/pants)"
+          ],
+          "glossesBn": [
+            "পরা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1060",
+      "kanji": "始まる",
+      "reading": "はじまる",
+      "furigana": "始[はじ]まる",
+      "romaji": "hajimaru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "শুরু হওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to begin"
+          ],
+          "glossesBn": [
+            "শুরু হওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1061",
+      "kanji": "働く",
+      "reading": "はたらく",
+      "furigana": "働[はたら]く",
+      "romaji": "hataraku",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "কাজ করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to work"
+          ],
+          "glossesBn": [
+            "কাজ করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1062",
+      "kanji": "張る",
+      "reading": "はる",
+      "furigana": "張[は]る",
+      "romaji": "haru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "আটকানো",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to stick / post"
+          ],
+          "glossesBn": [
+            "আটকানো"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1063",
+      "kanji": "払う",
+      "reading": "はらう",
+      "furigana": "払[は]らう",
+      "romaji": "harau",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "পরিশোধ করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to pay"
+          ],
+          "glossesBn": [
+            "পরিশোধ করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1064",
+      "kanji": "曲がる",
+      "reading": "まがる",
+      "furigana": "曲[ま]がる",
+      "romaji": "magaru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "মোড় নেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to turn"
+          ],
+          "glossesBn": [
+            "মোড় নেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1065",
+      "kanji": "待つ",
+      "reading": "まつ",
+      "furigana": "待[ま]つ",
+      "romaji": "matsu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "অপেক্ষা করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to wait"
+          ],
+          "glossesBn": [
+            "অপেক্ষা করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1066",
+      "kanji": "磨く",
+      "reading": "みがく",
+      "furigana": "磨[みが]く",
+      "romaji": "migaku",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "মাজা / ব্রাশ করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to brush / polish"
+          ],
+          "glossesBn": [
+            "মাজা / ব্রাশ করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1067",
+      "kanji": "見せる",
+      "reading": "みせる",
+      "furigana": "見[み]せる",
+      "romaji": "miseru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "দেখানো",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to show"
+          ],
+          "glossesBn": [
+            "দেখানো"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1068",
+      "kanji": "持つ",
+      "reading": "もつ",
+      "furigana": "持[も]つ",
+      "romaji": "motsu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ধরা / থাকা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to hold / have"
+          ],
+          "glossesBn": [
+            "ধরা / থাকা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1069",
+      "kanji": "休む",
+      "reading": "やすむ",
+      "furigana": "休[やす]む",
+      "romaji": "yasumu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "বিশ্রাম নেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to rest / take break"
+          ],
+          "glossesBn": [
+            "বিশ্রাম নেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1070",
+      "kanji": "やる",
+      "reading": "やる",
+      "furigana": "やる",
+      "romaji": "yaru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to do / give"
+          ],
+          "glossesBn": [
+            "করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1071",
+      "kanji": "呼ぶ",
+      "reading": "よぶ",
+      "furigana": "呼[よ]ぶ",
+      "romaji": "yobu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "ডাকা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to call out"
+          ],
+          "glossesBn": [
+            "ডাকা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1072",
+      "kanji": "渡る",
+      "reading": "わたる",
+      "furigana": "渡[わた]る",
+      "romaji": "wataru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "পার হওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to cross"
+          ],
+          "glossesBn": [
+            "পার হওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1073",
+      "kanji": "渡す",
+      "reading": "わたす",
+      "furigana": "渡[わた]す",
+      "romaji": "watasu",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N5"
+      ],
+      "jlptLevel": "N5",
+      "bangla": "হস্তান্তর করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to hand over"
+          ],
+          "glossesBn": [
+            "হস্তান্তর করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1074",
       "kanji": "集める",
       "reading": "あつめる",
       "furigana": "集[あつ]める",
@@ -927,6 +2053,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N4"
       ],
       "jlptLevel": "N4",
@@ -934,23 +2061,47 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Ichidan verb",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to collect",
-            "to assemble",
-            "to gather"
+            "to collect"
           ],
           "glossesBn": [
-            "সংগ্রহ করা",
-            "একত্রিত করা"
+            "সংগ্রহ করা"
           ]
         }
       ]
     },
     {
-      "id": "jm_2002",
+      "id": "jm_1075",
+      "kanji": "案内する",
+      "reading": "あんないする",
+      "furigana": "案[あん]内[ない]する",
+      "romaji": "annai suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N4"
+      ],
+      "jlptLevel": "N4",
+      "bangla": "পথ দেখানো",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to guide / show around"
+          ],
+          "glossesBn": [
+            "পথ দেখানো"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1076",
       "kanji": "説明する",
       "reading": "せつめいする",
       "furigana": "説[せつ]明[めい]する",
@@ -958,6 +2109,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N4"
       ],
       "jlptLevel": "N4",
@@ -965,20 +2117,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb"
+            "Verb"
           ],
           "meanings": [
             "to explain"
           ],
           "glossesBn": [
-            "ব্যাখ্যা করা",
-            "বুঝিয়ে বলা"
+            "ব্যাখ্যা করা"
           ]
         }
       ]
     },
     {
-      "id": "jm_2003",
+      "id": "jm_1077",
       "kanji": "約束する",
       "reading": "やくそくする",
       "furigana": "約[やく]束[そく]する",
@@ -986,6 +2137,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N4"
       ],
       "jlptLevel": "N4",
@@ -993,20 +2145,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb"
+            "Verb"
           ],
           "meanings": [
             "to promise"
           ],
           "glossesBn": [
-            "প্রতিশ্রুতি দেওয়া",
-            "কথা দেওয়া"
+            "প্রতিশ্রুতি দেওয়া"
           ]
         }
       ]
     },
     {
-      "id": "jm_2004",
+      "id": "jm_1078",
       "kanji": "運転する",
       "reading": "うんてんする",
       "furigana": "運[うん]転[てん]する",
@@ -1014,6 +2165,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N4"
       ],
       "jlptLevel": "N4",
@@ -1021,22 +2173,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to drive (a vehicle)",
-            "to operate"
+            "to drive"
           ],
           "glossesBn": [
-            "গাড়ি চালানো",
-            "পরিচালনা করা"
+            "গাড়ি চালানো"
           ]
         }
       ]
     },
     {
-      "id": "jm_2005",
+      "id": "jm_1079",
       "kanji": "注意する",
       "reading": "ちゅういする",
       "furigana": "注[ちゅう]意[い]する",
@@ -1044,6 +2193,7 @@
       "isCommon": true,
       "priority": [
         "ichi1",
+        "news1",
         "N4"
       ],
       "jlptLevel": "N4",
@@ -1051,21 +2201,131 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb"
+            "Verb"
           ],
           "meanings": [
-            "to pay attention",
             "to be careful"
           ],
           "glossesBn": [
-            "সতর্ক হওয়া",
-            "মনোযোগ দেওয়া"
+            "সতর্ক হওয়া"
           ]
         }
       ]
     },
     {
-      "id": "jm_3001",
+      "id": "jm_1080",
+      "kanji": "準備する",
+      "reading": "じゅんびする",
+      "furigana": "準[じゅん]備[び]する",
+      "romaji": "junbi suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N4"
+      ],
+      "jlptLevel": "N4",
+      "bangla": "প্রস্তুতি নেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to prepare"
+          ],
+          "glossesBn": [
+            "প্রস্তুতি নেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1081",
+      "kanji": "出発する",
+      "reading": "しゅっぱつする",
+      "furigana": "出[しゅっ]発[ぱつ]する",
+      "romaji": "shuppatsu suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N4"
+      ],
+      "jlptLevel": "N4",
+      "bangla": "রওনা হওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to depart"
+          ],
+          "glossesBn": [
+            "রওনা হওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1082",
+      "kanji": "到着する",
+      "reading": "とうちゃくする",
+      "furigana": "到[とう]着[ちゃく]する",
+      "romaji": "touchaku suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N4"
+      ],
+      "jlptLevel": "N4",
+      "bangla": "পৌঁছানো",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to arrive"
+          ],
+          "glossesBn": [
+            "পৌঁছানো"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1083",
+      "kanji": "故障する",
+      "reading": "こしょうする",
+      "furigana": "故[こ]障[しょう]する",
+      "romaji": "koshou suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "news1",
+        "N4"
+      ],
+      "jlptLevel": "N4",
+      "bangla": "নষ্ট হওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to break down"
+          ],
+          "glossesBn": [
+            "নষ্ট হওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1084",
       "kanji": "解決する",
       "reading": "かいけつする",
       "furigana": "解[かい]決[けつ]する",
@@ -1080,23 +2340,19 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to settle",
-            "to solve",
-            "to resolve"
+            "to solve"
           ],
           "glossesBn": [
-            "সমাধান করা",
-            "মীমাংসা করা"
+            "সমাধান করা"
           ]
         }
       ]
     },
     {
-      "id": "jm_3002",
+      "id": "jm_1085",
       "kanji": "経験する",
       "reading": "けいけんする",
       "furigana": "経[けい]験[けん]する",
@@ -1107,11 +2363,11 @@
         "N3"
       ],
       "jlptLevel": "N3",
-      "bangla": "অভিজ্ঞতা অর্জন করা",
+      "bangla": "অভিজ্ঞতা লাভ করা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb"
+            "Verb"
           ],
           "meanings": [
             "to experience"
@@ -1123,7 +2379,7 @@
       ]
     },
     {
-      "id": "jm_3003",
+      "id": "jm_1086",
       "kanji": "影響する",
       "reading": "えいきょうする",
       "furigana": "影[えい]響[きょう]する",
@@ -1138,10 +2394,9 @@
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb"
+            "Verb"
           ],
           "meanings": [
-            "to affect",
             "to influence"
           ],
           "glossesBn": [
@@ -1151,7 +2406,61 @@
       ]
     },
     {
-      "id": "jm_4001",
+      "id": "jm_1087",
+      "kanji": "調査する",
+      "reading": "ちょうさする",
+      "furigana": "調[ちょう]査[さ]する",
+      "romaji": "chousa suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "N3"
+      ],
+      "jlptLevel": "N3",
+      "bangla": "তদন্ত করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to investigate"
+          ],
+          "glossesBn": [
+            "তদন্ত করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1088",
+      "kanji": "管理する",
+      "reading": "かんりする",
+      "furigana": "管[かん]理[り]する",
+      "romaji": "kanri suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "N3"
+      ],
+      "jlptLevel": "N3",
+      "bangla": "ব্যবস্থাপনা করা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to manage"
+          ],
+          "glossesBn": [
+            "ব্যবস্থাপনা করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1089",
       "kanji": "発展する",
       "reading": "はってんする",
       "furigana": "発[はっ]展[てん]する",
@@ -1162,26 +2471,23 @@
         "N2"
       ],
       "jlptLevel": "N2",
-      "bangla": "উন্নতি / বিকাশ ঘটা",
+      "bangla": "বিকাশ ঘটা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb"
+            "Verb"
           ],
           "meanings": [
-            "to develop",
-            "to expand",
-            "to flourish"
+            "to develop"
           ],
           "glossesBn": [
-            "বিকাশ লাভ করা",
-            "উন্নতি করা"
+            "বিকাশ ঘটা"
           ]
         }
       ]
     },
     {
-      "id": "jm_5001",
+      "id": "jm_1090",
       "kanji": "議論する",
       "reading": "ぎろんする",
       "furigana": "議[ぎ]論[ろん]する",
@@ -1192,21 +2498,71 @@
         "N1"
       ],
       "jlptLevel": "N1",
-      "bangla": "আলোচনা / বিতর্ক করা",
+      "bangla": "বিতর্ক করা",
       "senses": [
         {
           "partsOfSpeech": [
-            "Suru verb",
-            "Transitive verb"
+            "Verb"
           ],
           "meanings": [
-            "to discuss",
-            "to debate",
-            "to argue"
+            "to discuss / debate"
           ],
           "glossesBn": [
-            "বিতর্ক করা",
-            "আলোচনা করা"
+            "বিতর্ক করা"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1091",
+      "kanji": "提案する",
+      "reading": "ていあんする",
+      "furigana": "提[てい]案[あん]する",
+      "romaji": "teian suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "N2"
+      ],
+      "jlptLevel": "N2",
+      "bangla": "প্রস্তাব দেওয়া",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to propose"
+          ],
+          "glossesBn": [
+            "প্রস্তাব দেওয়া"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jm_1092",
+      "kanji": "貢献する",
+      "reading": "こうけんする",
+      "furigana": "貢[こう]献[けん]する",
+      "romaji": "kouken suru",
+      "isCommon": true,
+      "priority": [
+        "ichi1",
+        "N1"
+      ],
+      "jlptLevel": "N1",
+      "bangla": "অবদান রাখা",
+      "senses": [
+        {
+          "partsOfSpeech": [
+            "Verb"
+          ],
+          "meanings": [
+            "to contribute"
+          ],
+          "glossesBn": [
+            "অবদান রাখা"
           ]
         }
       ]
@@ -1216,42 +2572,22 @@
     {
       "kanji": "食",
       "onyomi": [
-        "ショク",
-        "ジキ"
+        "ショク"
       ],
       "kunyomi": [
-        "た.べる",
-        "く.う",
-        "く.らう"
-      ],
-      "nanori": [
-        "はむ"
+        "た.べる"
       ],
       "meanings": [
         "eat",
         "food"
       ],
       "meaningsBn": [
-        "খাওয়া",
-        "খাদ্য"
+        "খাওয়া"
       ],
       "jlptLevel": "N5",
       "grade": 2,
       "strokeCount": 9,
-      "radical": "食 (eat)",
-      "freq": 340,
-      "examples": [
-        {
-          "word": "食べる",
-          "reading": "たべる",
-          "meaning": "to eat"
-        },
-        {
-          "word": "食事",
-          "reading": "しょくじ",
-          "meaning": "meal"
-        }
-      ]
+      "radical": "食"
     },
     {
       "kanji": "飲",
@@ -1261,10 +2597,8 @@
       "kunyomi": [
         "の.む"
       ],
-      "nanori": [],
       "meanings": [
-        "drink",
-        "smoke"
+        "drink"
       ],
       "meaningsBn": [
         "পান করা"
@@ -1272,266 +2606,18 @@
       "jlptLevel": "N5",
       "grade": 3,
       "strokeCount": 12,
-      "radical": "食 (eat)",
-      "freq": 930,
-      "examples": [
-        {
-          "word": "飲む",
-          "reading": "のむ",
-          "meaning": "to drink"
-        },
-        {
-          "word": "飲み物",
-          "reading": "のみもの",
-          "meaning": "beverage"
-        }
-      ]
-    },
-    {
-      "kanji": "本",
-      "onyomi": [
-        "ホン"
-      ],
-      "kunyomi": [
-        "もと"
-      ],
-      "nanori": [
-        "もと"
-      ],
-      "meanings": [
-        "book",
-        "origin",
-        "main"
-      ],
-      "meaningsBn": [
-        "বই",
-        "উৎপত্তি"
-      ],
-      "jlptLevel": "N5",
-      "grade": 1,
-      "strokeCount": 5,
-      "radical": "木 (tree)",
-      "freq": 10,
-      "examples": [
-        {
-          "word": "日本語",
-          "reading": "にほんご",
-          "meaning": "Japanese language"
-        },
-        {
-          "word": "本",
-          "reading": "ほん",
-          "meaning": "book"
-        }
-      ]
-    },
-    {
-      "kanji": "水",
-      "onyomi": [
-        "スイ"
-      ],
-      "kunyomi": [
-        "みず"
-      ],
-      "nanori": [
-        "ず"
-      ],
-      "meanings": [
-        "water"
-      ],
-      "meaningsBn": [
-        "পানি",
-        "জল"
-      ],
-      "jlptLevel": "N5",
-      "grade": 1,
-      "strokeCount": 4,
-      "radical": "水 (water)",
-      "freq": 224,
-      "examples": [
-        {
-          "word": "水",
-          "reading": "みず",
-          "meaning": "water"
-        },
-        {
-          "word": "水曜日",
-          "reading": "すいようび",
-          "meaning": "Wednesday"
-        }
-      ]
-    },
-    {
-      "kanji": "学",
-      "onyomi": [
-        "ガク"
-      ],
-      "kunyomi": [
-        "まな.ぶ"
-      ],
-      "nanori": [
-        "さと",
-        "たか"
-      ],
-      "meanings": [
-        "study",
-        "learning"
-      ],
-      "meaningsBn": [
-        "শিক্ষা",
-        "অধ্যয়ন"
-      ],
-      "jlptLevel": "N5",
-      "grade": 1,
-      "strokeCount": 8,
-      "radical": "子 (child)",
-      "freq": 63,
-      "examples": [
-        {
-          "word": "学校",
-          "reading": "がっこう",
-          "meaning": "school"
-        },
-        {
-          "word": "学生",
-          "reading": "がくせい",
-          "meaning": "student"
-        }
-      ]
-    },
-    {
-      "kanji": "校",
-      "onyomi": [
-        "コウ"
-      ],
-      "kunyomi": [],
-      "nanori": [
-        "めん"
-      ],
-      "meanings": [
-        "school",
-        "exam"
-      ],
-      "meaningsBn": [
-        "স্কুল",
-        "বিদ্যালয়"
-      ],
-      "jlptLevel": "N5",
-      "grade": 1,
-      "strokeCount": 10,
-      "radical": "木 (tree)",
-      "freq": 286,
-      "examples": [
-        {
-          "word": "学校",
-          "reading": "がっこう",
-          "meaning": "school"
-        },
-        {
-          "word": "高校",
-          "reading": "こうこう",
-          "meaning": "high school"
-        }
-      ]
-    },
-    {
-      "kanji": "日",
-      "onyomi": [
-        "ニチ",
-        "ジツ"
-      ],
-      "kunyomi": [
-        "ひ",
-        "-び",
-        "-か"
-      ],
-      "nanori": [
-        "あき",
-        "い"
-      ],
-      "meanings": [
-        "day",
-        "sun",
-        "Japan"
-      ],
-      "meaningsBn": [
-        "দিন",
-        "সূর্য"
-      ],
-      "jlptLevel": "N5",
-      "grade": 1,
-      "strokeCount": 4,
-      "radical": "日 (sun)",
-      "freq": 1,
-      "examples": [
-        {
-          "word": "日本",
-          "reading": "にほん",
-          "meaning": "Japan"
-        },
-        {
-          "word": "今日",
-          "reading": "きょう",
-          "meaning": "today"
-        }
-      ]
-    },
-    {
-      "kanji": "生",
-      "onyomi": [
-        "セイ",
-        "ショウ"
-      ],
-      "kunyomi": [
-        "い.きる",
-        "う.まれ"
-      ],
-      "nanori": [
-        "い",
-        "いく"
-      ],
-      "meanings": [
-        "life",
-        "birth"
-      ],
-      "meaningsBn": [
-        "জীবন",
-        "জন্ম"
-      ],
-      "jlptLevel": "N5",
-      "grade": 1,
-      "strokeCount": 5,
-      "radical": "生 (life)",
-      "freq": 29,
-      "examples": [
-        {
-          "word": "学生",
-          "reading": "がくせい",
-          "meaning": "student"
-        },
-        {
-          "word": "先生",
-          "reading": "せんせい",
-          "meaning": "teacher"
-        }
-      ]
+      "radical": "食"
     },
     {
       "kanji": "行",
       "onyomi": [
-        "コウ",
-        "ギョウ"
+        "コウ"
       ],
       "kunyomi": [
-        "い.く",
-        "おこな.う"
-      ],
-      "nanori": [
-        "ゆき"
+        "い.く"
       ],
       "meanings": [
-        "go",
-        "conduct"
+        "go"
       ],
       "meaningsBn": [
         "যাওয়া"
@@ -1539,20 +2625,26 @@
       "jlptLevel": "N5",
       "grade": 2,
       "strokeCount": 6,
-      "radical": "行 (go)",
-      "freq": 20,
-      "examples": [
-        {
-          "word": "行く",
-          "reading": "いく",
-          "meaning": "to go"
-        },
-        {
-          "word": "旅行",
-          "reading": "りょこう",
-          "meaning": "travel"
-        }
-      ]
+      "radical": "行"
+    },
+    {
+      "kanji": "来",
+      "onyomi": [
+        "ライ"
+      ],
+      "kunyomi": [
+        "く.る"
+      ],
+      "meanings": [
+        "come"
+      ],
+      "meaningsBn": [
+        "আসা"
+      ],
+      "jlptLevel": "N5",
+      "grade": 2,
+      "strokeCount": 7,
+      "radical": "木"
     },
     {
       "kanji": "見",
@@ -1560,13 +2652,10 @@
         "ケン"
       ],
       "kunyomi": [
-        "み.る",
-        "み.せる"
+        "み.る"
       ],
-      "nanori": [],
       "meanings": [
-        "see",
-        "hopes"
+        "see"
       ],
       "meaningsBn": [
         "দেখা"
@@ -1574,35 +2663,18 @@
       "jlptLevel": "N5",
       "grade": 1,
       "strokeCount": 7,
-      "radical": "見 (see)",
-      "freq": 22,
-      "examples": [
-        {
-          "word": "見る",
-          "reading": "みる",
-          "meaning": "to see"
-        },
-        {
-          "word": "意見",
-          "reading": "いけん",
-          "meaning": "opinion"
-        }
-      ]
+      "radical": "見"
     },
     {
       "kanji": "聞",
       "onyomi": [
-        "ブン",
-        "モン"
+        "ブン"
       ],
       "kunyomi": [
         "き.く"
       ],
-      "nanori": [],
       "meanings": [
-        "hear",
-        "ask",
-        "listen"
+        "hear"
       ],
       "meaningsBn": [
         "শোনা"
@@ -1610,15 +2682,26 @@
       "jlptLevel": "N5",
       "grade": 2,
       "strokeCount": 14,
-      "radical": "耳 (ear)",
-      "freq": 310,
-      "examples": [
-        {
-          "word": "新聞",
-          "reading": "しんぶん",
-          "meaning": "newspaper"
-        }
-      ]
+      "radical": "耳"
+    },
+    {
+      "kanji": "話",
+      "onyomi": [
+        "ワ"
+      ],
+      "kunyomi": [
+        "はな.す"
+      ],
+      "meanings": [
+        "talk"
+      ],
+      "meaningsBn": [
+        "কথা বলা"
+      ],
+      "jlptLevel": "N5",
+      "grade": 2,
+      "strokeCount": 13,
+      "radical": "言"
     },
     {
       "kanji": "書",
@@ -1628,12 +2711,8 @@
       "kunyomi": [
         "か.く"
       ],
-      "nanori": [
-        "ふみ"
-      ],
       "meanings": [
-        "write",
-        "book"
+        "write"
       ],
       "meaningsBn": [
         "লেখা"
@@ -1641,163 +2720,45 @@
       "jlptLevel": "N5",
       "grade": 2,
       "strokeCount": 10,
-      "radical": "日 (sun)",
-      "freq": 160,
-      "examples": [
-        {
-          "word": "辞書",
-          "reading": "じしょ",
-          "meaning": "dictionary"
-        }
-      ]
+      "radical": "日"
     },
     {
-      "kanji": "集",
+      "kanji": "読",
       "onyomi": [
-        "シュウ"
+        "ドク"
       ],
       "kunyomi": [
-        "あつ.まる",
-        "あつ.める"
+        "よ.む"
       ],
-      "nanori": [],
       "meanings": [
-        "gather",
-        "collect"
+        "read"
       ],
       "meaningsBn": [
-        "একত্রিত করা"
+        "পড়া"
       ],
-      "jlptLevel": "N4",
-      "grade": 3,
-      "strokeCount": 12,
-      "radical": "隹 (bird)",
-      "freq": 450,
-      "examples": [
-        {
-          "word": "集める",
-          "reading": "あつめる",
-          "meaning": "to collect"
-        }
-      ]
-    },
-    {
-      "kanji": "説",
-      "onyomi": [
-        "セツ",
-        "ゼイ"
-      ],
-      "kunyomi": [
-        "と.く"
-      ],
-      "nanori": [],
-      "meanings": [
-        "explain",
-        "theory"
-      ],
-      "meaningsBn": [
-        "ব্যাখ্যা"
-      ],
-      "jlptLevel": "N4",
-      "grade": 4,
+      "jlptLevel": "N5",
+      "grade": 2,
       "strokeCount": 14,
-      "radical": "言 (word)",
-      "freq": 210,
-      "examples": [
-        {
-          "word": "説明",
-          "reading": "せつめい",
-          "meaning": "explanation"
-        }
-      ]
+      "radical": "言"
     },
     {
-      "kanji": "解",
+      "kanji": "買",
       "onyomi": [
-        "カイ",
-        "ゲ"
+        "バイ"
       ],
       "kunyomi": [
-        "と.く",
-        "と.かす"
+        "か.う"
       ],
-      "nanori": [],
       "meanings": [
-        "untie",
-        "solve",
-        "explain"
+        "buy"
       ],
       "meaningsBn": [
-        "সমাধান"
+        "কেনা"
       ],
-      "jlptLevel": "N3",
-      "grade": 5,
-      "strokeCount": 13,
-      "radical": "角 (horn)",
-      "freq": 180,
-      "examples": [
-        {
-          "word": "解決",
-          "reading": "かいけつ",
-          "meaning": "solution"
-        }
-      ]
-    },
-    {
-      "kanji": "展",
-      "onyomi": [
-        "テン"
-      ],
-      "kunyomi": [],
-      "nanori": [],
-      "meanings": [
-        "unfold",
-        "expand",
-        "exhibit"
-      ],
-      "meaningsBn": [
-        "বিকাশ / প্রদর্শনী"
-      ],
-      "jlptLevel": "N2",
-      "grade": 6,
-      "strokeCount": 10,
-      "radical": "尸 (corpse)",
-      "freq": 320,
-      "examples": [
-        {
-          "word": "発展",
-          "reading": "はってん",
-          "meaning": "development"
-        }
-      ]
-    },
-    {
-      "kanji": "議",
-      "onyomi": [
-        "ギ"
-      ],
-      "kunyomi": [],
-      "nanori": [],
-      "meanings": [
-        "deliberation",
-        "consultation",
-        "debate"
-      ],
-      "meaningsBn": [
-        "বিতর্ক"
-      ],
-      "jlptLevel": "N1",
-      "grade": 4,
-      "strokeCount": 20,
-      "radical": "言 (word)",
-      "freq": 15,
-      "examples": [
-        {
-          "word": "議論",
-          "reading": "ぎろん",
-          "meaning": "discussion"
-        }
-      ]
+      "jlptLevel": "N5",
+      "grade": 1,
+      "strokeCount": 12,
+      "radical": "貝"
     }
   ],
   "sentences": [
@@ -1806,64 +2767,14 @@
       "japanese": "りんごを食べます。",
       "furigana": "りんごを 食[た]べます。",
       "english": "I eat an apple.",
-      "bangla": "আমি একটি আপেল খাই।",
-      "attribution": "Tatoeba.org (CC-BY 2.0 FR)"
+      "bangla": "আমি একটি আপেল খাই。"
     },
     {
       "id": "tat_1002",
-      "japanese": "私は毎日水を飲みます。",
-      "furigana": "私[わたし]は 毎[まい]日[にち] 水[みず]を 飲[の]みます。",
-      "english": "I drink water every day.",
-      "bangla": "আমি প্রতিদিন পানি পান করি।",
-      "attribution": "Tatoeba.org (CC-BY 2.0 FR)"
-    },
-    {
-      "id": "tat_1003",
-      "japanese": "図書館で本を読みました。",
-      "furigana": "図[と]書[しょ]館[かん]で 本[ほん]を 読[よ]みました。",
-      "english": "I read a book at the library.",
-      "bangla": "আমি লাইব্রেরিতে একটি বই পড়েছি।",
-      "attribution": "Tatoeba.org (CC-BY 2.0 FR)"
-    },
-    {
-      "id": "tat_1004",
-      "japanese": "電車で学校へ行きます。",
-      "furigana": "電[でん]車[しゃ]で 学[がっ]校[こう]へ 行[い]きます。",
-      "english": "I go to school by train.",
-      "bangla": "আমি ট্রেনে করে স্কুলে যাই।",
-      "attribution": "Tatoeba.org (CC-BY 2.0 FR)"
-    },
-    {
-      "id": "tat_1005",
-      "japanese": "友達と一緒に日本語を勉強します。",
-      "furigana": "友[とも]達[だち]と 一[いっ]緒[しょ]に 日[に]本[ほん]語[ご]を 勉[べん]強[きょう]します。",
-      "english": "I study Japanese together with my friend.",
-      "bangla": "আমি আমার বন্ধুর সাথে জাপানি ভাষা পড়ি।",
-      "attribution": "Tatoeba.org (CC-BY 2.0 FR)"
-    },
-    {
-      "id": "tat_1006",
-      "japanese": "明日映画を見に行きます。",
-      "furigana": "明[あ]日[した] 映[えい]画[が]を 見[み]に 行[い]きます。",
-      "english": "Tomorrow I will go to see a movie.",
-      "bangla": "আগামীকাল আমি সিনেমা দেখতে যাব।",
-      "attribution": "Tatoeba.org (CC-BY 2.0 FR)"
-    },
-    {
-      "id": "tat_1007",
-      "japanese": "毎朝6時に起きます。",
-      "furigana": "毎[まい]朝[あさ] 6時[じ]に 起[お]きます。",
-      "english": "I wake up at 6 o'clock every morning.",
-      "bangla": "আমি প্রতিদিন সকাল ৬টায় ঘুম থেকে উঠি।",
-      "attribution": "Tatoeba.org (CC-BY 2.0 FR)"
-    },
-    {
-      "id": "tat_1008",
-      "japanese": "駅で友達を待っています。",
-      "furigana": "駅[えき]で 友[とも]達[だち]を 待[ま]っています。",
-      "english": "I am waiting for my friend at the station.",
-      "bangla": "আমি স্টেশনে বন্ধুর জন্য অপেক্ষা করছি।",
-      "attribution": "Tatoeba.org (CC-BY 2.0 FR)"
+      "japanese": "水は冷たいです。",
+      "furigana": "水[みず]は 冷[つめ]たいです。",
+      "english": "The water is cold.",
+      "bangla": "পানি ঠান্ডা।"
     }
   ]
 }
